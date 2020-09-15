@@ -1,0 +1,15 @@
+print("nume: Bondac Ion")
+print("data nasterii: 11.09.2004")
+print("locul nasterii: Balti")
+print("e-mail: proiectliceeni@gmail.com")
+print("telefon: 060120639")
+print("adresa: Vasile Coroban 20")
+print("nationalitate: moldovean")
+print("studii: Scoala primara Spiridon Vangheli")
+print("        Liceul Teoretic Mihai Eminescu")
+print("limbi straine: Limba Engleza b1")
+print("               Limba Germana a2")
+print("               Limba Rusa nivel de vorbire")
+print("aptitudini: perseverent,ambitios,serios,responsabil,muncitor")
+
+
